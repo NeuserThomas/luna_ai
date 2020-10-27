@@ -24,7 +24,7 @@ azureContainerInstance:
   cpu_cores: 1
   memory_gb: 1
   properties: 
-  location:
+  location: "westeurope"
   auth_enabled: true
   collect_model_data: false
   enable_app_insights: false
